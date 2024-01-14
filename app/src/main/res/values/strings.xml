@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Top Songs/Albums</string>
+    <string name="songs_apps">Songs</string>
+    <string name="albums_apps">Albums</string>
+    <string name="top10">Top 10</string>
+    <string name="top25">Top 25</string>
+</resources>
