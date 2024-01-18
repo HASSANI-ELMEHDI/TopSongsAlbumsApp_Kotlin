@@ -47,7 +47,7 @@ The application is built using the Model-View-ViewModel (MVVM) architecture patt
 Here are some mockups to provide you with an idea of the application's user interface:
 1. Top Songs List:
 
-<img src="https://github.com/HASSANI-ELMEHDI/TopSongsAlbumsApp_Kotlin/assets/105174552/cce56554-bb38-4390-8900-4ab802c5d735" height="300" width="400">
+<img src="https://github.com/HASSANI-ELMEHDI/TopSongsAlbumsApp_Kotlin/assets/105174552/cce56554-bb38-4390-8900-4ab802c5d735" height="50%" width="50%">
 
 3. Top Albums List:
 
